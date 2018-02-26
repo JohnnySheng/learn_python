@@ -1,0 +1,15 @@
+torismusPlaces = ['USA', 'Japan', 'Egypt', 'Thailand']
+print(torismusPlaces)
+print(sorted(torismusPlaces))
+
+print(torismusPlaces)
+torismusPlaces.reverse()
+print(torismusPlaces)
+torismusPlaces.reverse()
+print(torismusPlaces)
+torismusPlaces.sort()
+print(torismusPlaces)
+torismusPlaces.sort(reverse = True)
+print(torismusPlaces)   
+print(len(torismusPlaces))
+print(torismusPlaces[-4])
