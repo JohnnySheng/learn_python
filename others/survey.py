@@ -12,6 +12,7 @@ class AnonymousSurvey():
         """存储单份调查答卷"""
         self.responses.append(new_response)
 
+
     def show_results(self): 
         """显示收集到的所有答卷"""
         print("Survey results:") 
